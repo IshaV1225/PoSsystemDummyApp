@@ -1,0 +1,14 @@
+.mainPageContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    background-color: #e6e3d8;
+}
+
+.mainPageContainer h1{
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center;
+    padding-top: 2cm;
+
+}
